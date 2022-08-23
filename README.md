@@ -1,1 +1,5 @@
-# uc-beckejo
+- Hi, I'm Jay
+- I'm interested in technology
+- I'm currently studying IT
+- I'm looking to learn more about scripting
+- I can be reached at beckejo@mail.uc.edu
